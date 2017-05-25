@@ -1,6 +1,6 @@
 # No Network Please, I'm Testing
 
-Accompanies Medium article [here](https://medium.com/@billhorsman).
+Accompanies Medium article [here](https://medium.com/@billhorsman/no-network-please-im-testing-b25b00422ad0).
 
 
 ```
