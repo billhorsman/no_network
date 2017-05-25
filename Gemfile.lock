@@ -1,0 +1,20 @@
+GEM
+  specs:
+    httparty (0.14.0)
+      multi_xml (>= 0.5.2)
+    metaclass (0.0.4)
+    minitest (5.10.2)
+    mocha (1.2.1)
+      metaclass (~> 0.0.1)
+    multi_xml (0.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  httparty
+  minitest
+  mocha
+
+BUNDLED WITH
+   1.14.3
